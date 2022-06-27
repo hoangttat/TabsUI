@@ -6,6 +6,7 @@
 body {
   display: flex;
   font-family: "Poppins", sans-serif;
+  background-color: antiquewhite;
 }
 body > div {
   margin: 5% auto 0;
